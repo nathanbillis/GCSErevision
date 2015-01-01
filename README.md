@@ -1,4 +1,4 @@
-GCSErevision
+GCSE Revision
 ============
-
-GCSErevision
+This Project will help with GCSE revision
+============
