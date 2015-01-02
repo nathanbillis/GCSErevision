@@ -13,7 +13,7 @@
   <!--Nav Bar-->
   <nav class="fixed-nav-bar">
     <div id="menu" class="menu">
-      <a class="sitename" href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\index.php">GCSE
+      <a class="sitename" href="https://github.com/nathanbillis/GCSErevision/blob/master/index.php">GCSE
       </a>
       <!-- Example responsive navigation menu  -->
       <a class="show" href="#menu">Menu</a><a class="hide" href="#hidemenu">Menu</a>
