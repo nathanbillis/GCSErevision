@@ -36,61 +36,26 @@
 
   <section class="content">
     <div class="description">
-      <h1>Geography Case Studys</h1>
+      <h1>Boscastle 2004</h1>
       <p class="summary">Here is a list of all the case studys which we study for GCSE.</p>
     </div>
   </section>
 
   <section class="casestudys">
-  <ul>
-    <li><strong><u>Rivers</u></strong>
     <ul>
-      <li>Bangladesh LEDC Flooding Event</li>
-      <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/geography/boscastle.php">Boscastle MEDC Flooding Event</li>
-      <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/geography/rivertees.php">River Tees Landforms Example</a></li>
-    </ul> </li>
-  </ul>
-
-  <ul>
-    <li><strong><u>Coast</u></strong>
-      <ul>
-        <li>Holderness</li>
-        <li>Happisburch</li>
-        <li>Pevensey Bay</li>
-      </ul> </li>
-    </ul>
-
-    <ul>
-      <li><strong><u>Population</u></strong>
+      <li><strong><u>What was the reason for the Flood? (4marks) </u></strong>
         <ul>
-          <li>China One Child Policy</li>
-          <li>Easten Europeian Migration</li>
-          <li>India Overpopulation</li>
-        </ul> </li>
-      </ul>
+          <li>Some people thought that the boscastle floods were caused by global warming and others thought it was cause by the Hurricane Bonny, but there has been no proof that either of this was the cause for the large amount of rainfall in a few hours. People may have the conception that it was the hurricane that caused the flood because in 1996 hurricane lili was the cause of a major flood like this. But the real reason for the floods was the high sided valley the village was placed in and the small drainage basin which cause difficulty to extract the water quickly. Also the warm air picking up evaporated water from the atlantic ocean, reaching the uk and clashing with the cool air causing rapid condensation over Cornwall. These enhanced water levels cause the large amount of rainfall in a few hours. </li>
 
-      <ul>
-        <li><strong><u>Natural Disartsers</u></strong>
-          <ul>
-            <li>San Fransisco Earthquake</li>
-            <li>Nevardo Del Ruiz</li>
-            <li>Hurricane Nargis</li>
-            <li>Australian Drought</li>
+
+
           </ul> </li>
         </ul>
 
-        <ul>
-          <li><strong><u>Settlements</u></strong>
-            <ul>
-              <li>Internal Migration</li>
-              <li>International Migration</li>
-              <li>Land Use Change</li>
-              <li>Retail Land Use</li>
-            </ul> </li>
-          </ul>
 
 
-    </section>
 
-</body>
-</html>
+      </section>
+
+    </body>
+    </html>
