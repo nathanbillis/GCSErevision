@@ -29,19 +29,21 @@
   <section class="content">
     <div class="description">
       <h1>Holderness</h1>
-      <p class="summary">A multiuse coast</p>
+      <p class="summary">An eroding coast line</p>
     </div>
   </section>
 
   <section class="casestudys">
     <ul>
-      <li><strong><u></u></strong>
+      <li><strong><u>Holderness Cost Line</u></strong>
         <ul>
-          <li>S </li>
-
-
-
-        </ul> </li>
+          <li>The Holderness Coastline is shaped by erosion, transportation and deposition.</li>
+          <li>These work together to create a variety of coastal features (caves, stacks, beaches, spits).</li>
+          <li>Erosional processes (corrasion, corrosion, attrition and hydraulic pressure) produce some interesting features especially at Flamborough Head.</li>
+          <li>They also cause many problems further down the coast where the geology is less resistant (Mappleton, Hornsea).</li>
+          <li>Coastal defences include wooden groynes, rock gabions, concrete sea walls and the beach. Developing these in certain areas however has important implications further along the coast.</li>
+          <li>However careful planning is needed to ensure that the whole coast is managed in the most sustainable manner.</li>  
+      </ul> </li>
       </ul>
 
 
