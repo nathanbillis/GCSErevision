@@ -10,27 +10,29 @@
 </head>
 
 <body>
-
+  <!--Nav Bar-->
   <nav class="fixed-nav-bar">
     <div id="menu" class="menu">
-      <a class="sitename" href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\index.html">GCSE
+      <a class="sitename" href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\index.php">GCSE
       </a>
       <!-- Example responsive navigation menu  -->
       <a class="show" href="#menu">Menu</a><a class="hide" href="#hidemenu">Menu</a>
       <ul class="menu-items">
-        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/physics/p1/p1.html">P1</a></li>
-        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/Sciences/Physics/P2/P2.html">P2</a></li>
-        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/physics/p3/p3.html">P3</a></li>
-        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/chemistry/c1/c1.html">C1</a></li>
-        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/chemistry/c2/c2.html">C2</a></li>
-        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/chemistry/c3/c3.html">C3</a></li>
-        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/biology/b1/b1.html">B1</a></li>
-        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/biology/b2/b2.html">B2</a></li>
-        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/biology/b3/b3.html">B3</a></li>
-        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/geography/casestudy.html">Case Studys</a></li>
+        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/physics/p1/p1.php">P1</a></li>
+        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/Sciences/Physics/P2/P2.php">P2</a></li>
+        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/physics/p3/p3.php">P3</a></li>
+        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/chemistry/c1/c1.php">C1</a></li>
+        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/chemistry/c2/c2.php">C2</a></li>
+        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/chemistry/c3/c3.php">C3</a></li>
+        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/biology/b1/b1.php">B1</a></li>
+        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/biology/b2/b2.php">B2</a></li>
+        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/sciences/biology/b3/b3.php">B3</a></li>
+        <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/geography/casestudy.php">Case Studys</a></li>
       </ul>
     </div>
   </nav>
+  
+
   <section class="content">
     <div class="description">
       <h1>Geography Case Studys</h1>
