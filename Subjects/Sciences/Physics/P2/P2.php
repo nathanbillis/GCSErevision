@@ -38,34 +38,34 @@
   </div>
 </section>
 <section class= "extrainfo">
-  <p>
-    <h2>Energy, Electricity and Motion</h2>
 
+      <li><strong><u>Energy, Electricity and Motion</u></strong>
+        <ul>
+          <li>Introduction</li>
+          <li>Changing Shape</li>
+          <li>V = D/T</li>
+          <li>Acceleration</li>
+          <li>Stopping</li>
+          <li>Terminal Velocity</li>
+          <li>Power</li>
+          <li>Momentum</li>
+          <li>Potential</li>
+        </ul> </li>
+
+
+    <li><strong><u>Electricty and Radiation</u></strong>
       <ul>
-        <li>Introduction</li>
-        <li>Changing Shape</li>
-        <li>V = D/T</li>
-        <li>Acceleration</li>
-        <li>Stopping</li>
-        <li>Terminal Velocity</li>
-        <li>Power</li>
-        <li>Momentum</li>
-        <li>Potential</li>
-      </ul>
+        <li>Static Electricity</li>
+        <li>Ohmic or Non Ohmic</li>
+        <li>Seris or Parallel</li>
+        <li>Saftey at Home</li>
+        <li>Current charge and Power</li>
+        <li>Radiation</li>
+        <li>Half Life</li>
+        <li>Fission</li>
+        <li>Fusion</li>
+      </ul> </li>
 
 
-    <h2>Electricty and Radiation</h2>
 
-    <ul>
-      <li>Static Electricity</li>
-      <li>Ohmic or Non Ohmic</li>
-      <li>Seris or Parallel</li>
-      <li>Saftey at Home</li>
-      <li>Current charge and Power</li>
-      <li>Radiation</li>
-      <li>Half Life</li>
-      <li>Fission</li>
-      <li>Fusion</li>
-    </ul>
-  </p>
 </section>

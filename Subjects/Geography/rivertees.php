@@ -36,61 +36,44 @@
 
   <section class="content">
     <div class="description">
-      <h1>Geography Case Studys</h1>
+      <h1>River Tees Landforms Example</h1>
       <p class="summary">Here is a list of all the case studys which we study for GCSE.</p>
     </div>
   </section>
 
   <section class="casestudys">
-  <ul>
-    <li><strong><u>Rivers</u></strong>
     <ul>
-      <li>Bangladesh LEDC Flooding Event</li>
-      <li>Boscastle MEDC Flooding Event</li>
-      <li><a href="file://C:\Users\Nathan\Documents\GitHub\GCSErevision\subjects/geography/rivertees.php">River Tees Landforms Example</a></li>
-    </ul> </li>
-  </ul>
-
-  <ul>
-    <li><strong><u>Coast</u></strong>
-      <ul>
-        <li>Holderness</li>
-        <li>Happisburch</li>
-        <li>Pevensey Bay</li>
-      </ul> </li>
-    </ul>
-
-    <ul>
-      <li><strong><u>Population</u></strong>
+      <li><strong><u>Fluvial Landforms</u></strong>
         <ul>
-          <li>China One Child Policy</li>
-          <li>Easten Europeian Migration</li>
-          <li>India Overpopulation</li>
+          <li>A waterfall is formed normally in the upper sections of a river where the water
+
+            has a lot of power and speed. They are formed when a layer of hard rock then
+
+            a layer of soft rock. Due to this, the river can erode the soft rock more easily
+
+            and faster, overtime this produces a step. Eventually, the step gets deeper, and
+
+            a waterfall is formed. Due to the processes of hydraulic action and abrasion, a
+
+            plunge pool at the bottom of the waterfall is created after time. A plunge pool
+
+            is basically where the water falls into. More erosion undercuts the hard rock
+
+            and leaves it to overhang the plunge pool. Eventually, the overhang collapses
+
+            into the plunge pool, and the waterfall retreats upstream creating a gorge. A
+
+            gorge is essentially a 'cut' in the landscape.</li>
+
+
+
         </ul> </li>
       </ul>
 
-      <ul>
-        <li><strong><u>Natural Disartsers</u></strong>
-          <ul>
-            <li>San Fransisco Earthquake</li>
-            <li>Nevardo Del Ruiz</li>
-            <li>Hurricane Nargis</li>
-            <li>Australian Drought</li>
-          </ul> </li>
-        </ul>
-
-        <ul>
-          <li><strong><u>Settlements</u></strong>
-            <ul>
-              <li>Internal Migration</li>
-              <li>International Migration</li>
-              <li>Land Use Change</li>
-              <li>Retail Land Use</li>
-            </ul> </li>
-          </ul>
+<img src="http://imgur.com/QtxY6rx.png" alt="A Waterfall" style="width:579px;height:318px">
 
 
-    </section>
+            </section>
 
-</body>
-</html>
+          </body>
+          </html>
